@@ -1,0 +1,81 @@
+//
+//  SFMarcoHeader.pch
+//  ShareFit
+//
+//  Created by YNTS on 2017/9/28.
+//  Copyright © 2017年 YNTS. All rights reserved.
+//
+
+#ifndef SFMarcoHeader_pch
+#define SFMarcoHeader_pch
+
+
+#pragma mark ------尺寸/字体/颜色/配置信息/接口文件 头文件导入
+
+#import "SFFontHeader.h"
+#import "SFSizeHeader.h"
+#import "SFColorHeader.h"
+#import "SFUtilsHeader.h"
+#import "SFInterfaceHeader.h"
+
+#pragma mark ------三方库头文件的导入
+
+#import "AppDelegate.h"
+#import <AFNetworking.h>
+#import <MJRefresh.h>
+#import <Masonry.h>
+#import <UIImageView+WebCache.h>
+#import <MJExtension.h>
+#import <MBProgressHUD.h>
+#import <UIButton+WebCache.h>
+#import <AMapLocationKit/AMapLocationKit.h>
+#import <AMapFoundationKit/AMapFoundationKit.h>
+//#import <AMapSearchKit/AMapSearchKit.h>
+//#import <AMapSearchKit/AMapCommonObj.h>
+#import <MAMapKit/MAMapKit.h>
+//#import <AMapSearchKit/AMapSearchAPI.h>
+//#import <AlipaySDK/AlipaySDK.h>
+//#import "WXApi.h"
+//#import "UIScrollView+EmptyDataSet.h"
+#import <SMS_SDK/SMSSDK.h>
+
+
+#pragma mark ------项目设置头文件导入
+
+//#import "SNNetRequest.h"
+//#import "SNNetRequestManager.h"
+//#import "SFCommonTool.h"
+//#import "Location.h"
+//#import "SFRootWebVC.h"
+//#import "SFPay.h"
+#import "LYDataManager.h"
+#import "LYLoction.h"
+
+
+
+#pragma mark ------类别
+#import "NSString+Addition.h"
+#import "MBProgressHUD+MJ.h"
+#import "UIView+Layer.h"
+#import "UIView+Frame.h"
+#import "UIImage+Addition.h"
+
+
+
+
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+
+
+
+
+
+#endif /* SFMarcoHeader_pch */
+///Users/lizhiliang/Desktop/ShareFit/ShareFit/ShareFitApp/Define/SFMarcoHeader.pch
+

@@ -1,0 +1,14 @@
+target 'OFO' do
+pod 'AMapLocation'
+pod 'AMap3DMap'
+pod 'MJExtension'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'AFNetworking'
+pod 'IQKeyboardManager'
+pod 'Masonry'
+pod 'MBProgressHUD', '~> 1.0.0'
+pod 'FMDB', '~> 2.7.2'
+pod 'DZNEmptyDataSet', '~> 1.8.1'
+pod 'SMSSDK'
+end
